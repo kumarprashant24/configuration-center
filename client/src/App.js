@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./components/Home/Home.jsx";
 import Dashboard from "./components/Dashboard/Dashboard.jsx";
 import About from "./components/About/About.jsx";
@@ -18,6 +18,7 @@ function App() {
   const [serviceMenu, setServiceMenu] = useState(null);
 
   useEffect(() => {
+
     axios
       .get(`${constants.API_URI}/menu`)
       .then((res) => setServiceMenu(res.data))
@@ -38,7 +39,7 @@ function App() {
         pauseOnHover
       />
 
-      <HashRouter>
+      <BrowserRouter>
         <Navbar serviceMenu={serviceMenu} />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -52,7 +53,7 @@ function App() {
           />
           <Route path="*" element={<ErrorPage />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }
