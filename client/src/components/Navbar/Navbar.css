@@ -1,0 +1,48 @@
+.navBar {
+  background: #008542;
+  color: white;
+}
+.mainMenu{
+        width: 230px;
+        background: #333;
+        height: 100vh ;
+        position: fixed;
+        z-index: 1000;
+        /* transition-property: width;
+        transition-duration: 2s; */
+}
+.sideMenu {
+  position: fixed;
+  overflow: auto;
+  background-color: #272727;
+  margin: 0px;
+  transform: translate3d(230px, 0px, 0px);
+  height: 100vh;
+}
+
+.menuBtn:focus {
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+.menuBtn:hover {
+  border-color: #333;
+  color: white;
+  background-color: #404040;
+}
+.subMenuBtn:focus {
+  color: white;
+  background-color: black;
+  border-color: #272727;
+}
+.subMenuBtn:hover {
+  color: white;
+  background-color: #1a1919;
+  border-color: #272727;
+}
+.flex-c {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}

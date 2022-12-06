@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Service info wift",
+    "key": "service-info-wift",
+    "submenu": [
+      {
+        "name": "sgm market",
+        "key": "sgm-market"
+      }
+    ],
+    "order": 1
+  },
+  {
+    "name": "About Us",
+    "key": "about",
+    "submenu": [],
+    "order": 2
+  }, {
+    "name": "Developer Docs",
+    "key": "developer",
+    "submenu": [],
+    "order": 3
+  }
+]

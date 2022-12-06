@@ -1,0 +1,1778 @@
+[
+  { "bet_option": "Head To Head",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "1st Quarter Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "2nd Quarter Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "3rd Quarter Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "4th Quarter Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "1st Half Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "2nd Half Result",
+    "sport_id": 1,
+    "enabled": true
+  },
+  { "bet_option": "Total Score Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Pick Your Own Total",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Team 1 Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Team 2 Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Highest Scoring Half",
+    "sport_id": 1,
+    "enabled": false
+  },
+  {  "bet_option": "Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Super Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Half/Full Double",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points Odd/Even",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Highest Scoring Quarter",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "To Win Every Quarter",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Rebounds",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Assists",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "HDtoHD/OverUnder Double",
+    "sport_id": 1,
+    "enabled": false
+  },
+  {  "bet_option": "Line/Over Under Double",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Pick Your Own Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Line",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Double-Double",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Triple-Double",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Total 3-Way",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Total Points 3-Way",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Points + Rebounds + Assists",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player PRA Over/Under",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Rebounds",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Assists",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Threes",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Threes",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Steals",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Steals",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Blocks",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Blocks",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Line/OverUnder Double",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Line/OverUnder Double",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick A Goal",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Pick the Score Double",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Sweet Spot",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Line/Over Under Double",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "HDtoHD/OverUnder Double",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Player Goals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Head To Head",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Result",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Result",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Result",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Super Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Pick Your Own Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Pick Your Own Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Pick Your Own Line",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "25+ Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Margin (1-24)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin (60pt)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin (72pt)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Winning Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Winning Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Winning Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Margin (1-9)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Margin (1-19)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Margin (1-12)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Margin (1-12)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Margin (1-12)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Margin (1-12)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Super Margin",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "20+ Disposals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "25+ Disposals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "30+ Disposals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "35+ Disposals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "40+ Disposals",
+    "sport_id": 3,
+    "enabled": false
+  },
+  {  "bet_option": "Pick Your Own Total",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points Over/Under",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Pick Your Own Total",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Pick Your Own Total",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter 1st Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter 1st Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter 1st Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter 1st Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Last Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Last Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Last Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Last Scoring Play",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-9",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-19",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-29",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-39",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Early 1st Goal Scorer",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Goal Scorer",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Head to Head",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Head to Head",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Half/Full Double",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Line/OverUnder Double",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Pick the Score Double",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Half/Full Double",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "HDtoHD/OverUnder Double",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Line/Over Under Double",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Team to Win Both Halves",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Highest Scoring Half",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Team Win Either Half",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Race To 10",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Total Match Tries",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Total Match Tries",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Head To Head",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Result",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Result",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Line",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Line",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Line",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Super Line",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Pick Your Own Line",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Pick Your Own Line",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Half Time Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Winning Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Super Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Super Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "To Score a Try",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 2+ Tries",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "To Score a Hat Trick",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Pick Your Own Total",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Pick Your Own Total",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points Over/Under",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Total Score Over/Under",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Over/Under",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Over/Under",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Try Scorer",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Last Try Scorer",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Home Tries",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Away Tries",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Home Total Points",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Away Total Points",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Home Points",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Away Points",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Total Match Points",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Total Points",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-4",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-6",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-8",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-10",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-12",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Head to Head",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "To Score A Try And Win",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Halftime/Fulltime Margin",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Margin Total Double",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Line/OverUnder Double",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Total Goals",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Half/Full Double",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Both Teams to Score",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Double Chance",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Result Over/Under Double",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Goals Over/Under",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Highest Scoring Half",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team Win Both Halves",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team Win Either Half",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team Win To Nil",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team to Score Last Goal",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Clean Sheet",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Total Team Goals",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team Score In Both Halves",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Both Teams Score in Half",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Result",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Card Result",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Result",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Half Result",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Corners Result",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Corners Result",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Correct Score",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Correct Score",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Anytime Goalscorer",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 2+ Goals",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 3+ Goals",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Total Goals Over/Under",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Total Corners Over/Under",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Total Cards",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Handicap",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Handicap Line",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Corners Line",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "First Goalscorer",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Last Goalscorer",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team Corners Over/Under",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team Total Goals O/U",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team to Score Next Goal",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Both Teams to Score in Both Halves",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "First Carded Team",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "First Corner Team",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Head To Head",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Result",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Result",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Quarter Result",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Quarter Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Super Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Pick Your Own Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points Over/Under",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Over/Under",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Over/Under",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Quarter Total Points O/U",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Total Match Points",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points 3-Way",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Team 1 Score",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Team 2 Score",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "To Score a Touchdown",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 2+ Touchdowns",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "QB Passing Touchdowns",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Rushing Yards O/U",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Receiving Yards O/U",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Margin",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Number of Touchdowns",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Number of Field Goals",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Half/Full Double",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Quarter Field Goal",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Score Type",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Touchdown Scorer",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Last Touchdown Scorer",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Total Points Odd/Even",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "HDtoHD/OverUnder Double",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Line/OverUnder Double",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Quarter Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "4th Quarter Line",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Margin(IncOT)",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Super Margin(IncOT)",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-3",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-7",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-10",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet 1-14",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Team Points Over/Under",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Quarter Total Points 3-Way",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Head to Head",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Number of Passing Touchdowns",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Player to be Carded",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Player to be Red Carded",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Passing Yards",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Rushing Yards",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Receiving Yards",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Interceptions",
+    "sport_id": 5,
+    "enabled": false
+  },
+  {  "bet_option": "Passing Touchdowns",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Passing Attempts",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Passing Yards O/U",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Longest Pass Completion O/U",
+    "sport_id": 5,
+    "enabled": false
+  },
+  {  "bet_option": "Passing Completions O/U",
+    "sport_id": 5,
+    "enabled": true
+  },
+  {  "bet_option": "Tri Bet",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Race To 10",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Race To 20",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Race To 25",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Super Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Total Match Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Total Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "1st Quarter Total Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Home Total Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Away Total Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Winning Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Halftime/Fulltime Margin",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Head To Head",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Player Runs",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "1st Man Out",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Fall Of 1st Wicket",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Margin",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "Innings Runs 3-Way",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "Innings Runs 6-Way",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "Highest Opening Partnership",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Leading Team after 6 Overs",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Most Sixes",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 10",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 25",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 50",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 100",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "To Hit A Six",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Hit 3+ Sixes",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Total Match Sixes",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Total Match Sixes 6-Way",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Most Wickets",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "High Bat",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Total Match Sixes",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "High Bat Double",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "Team to Hit Most Sixes",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Hit 2+ Sixes",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Take A Wicket",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Take 2+ Wickets",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Take 3+ Wickets",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Innings Runs Over/Under",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "To Hit A Four",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Hit 2+ Fours",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "To Hit 3+ Fours",
+    "sport_id": 6,
+    "enabled": true
+  },
+  {  "bet_option": "Home Team Alternate Total Runs",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "Away Team Alternate Total Runs",
+    "sport_id": 6,
+    "enabled": false
+  },
+  {  "bet_option": "To Score A Try 1st Half",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "To Score A Try 2nd Half",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "2nd Tryscorer",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "3rd Tryscorer",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "First Goalscorer",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick 2+ Goals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick 3+ Goals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick A Goal (1st Quarter)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick A Goal (2nd Quarter)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick A Goal (3rd Quarter)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick A Goal (4th Quarter)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick 4+ Goals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick 5+ Goals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick 6+ Goals",
+    "sport_id": 3,
+    "enabled": false
+  },
+  {  "bet_option": "Head To Head",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Innings Total Runs",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Hit A Home Run",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Total Runs Odd/Even",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Margin",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Winning Margin",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Winning Margin",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Innings Winner",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Team to Lead after 5th Innings",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Team to Lead after 7th Inning",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Total Runs Over/Under",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Runs O/U after 5th Innings",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Runs O/U after 7th Inning",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Both Teams Total Runs",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Home Team Total Runs",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Away Team Total Runs",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Line",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Extra Line",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Team Total Runs Over/Under",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "15+ Disposals",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Score 1st, 2nd or 3rd Try",
+    "sport_id": 2,
+    "enabled": true
+  },
+  {  "bet_option": "1st, 2nd, or 3rd Goal Scorer",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "To Kick A Goal (1st Half)",
+    "sport_id": 3,
+    "enabled": true
+  },
+  {  "bet_option": "Player To Steal A Base",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Pitcher Hits Allowed O/U",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Pitcher Strike-Outs O/U",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Get 1+ Hits",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Get 2+ Hits",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "1+ Runs Batted In",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "2+ Runs Batted In",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "To Hit A Home Run",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "To Hit 2+ Home Runs",
+    "sport_id": 7,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player PRA",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Player Points+Rebounds+Assists",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Head To Head",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Exact Total Sets",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Most Aces",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Winner",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Total Games Over/Under",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Player Hold 1st Service Game",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Race To (Games)",
+    "sport_id": 8,
+    "enabled": false
+  },
+  {  "bet_option": "Set Player to win on a Tiebreak?",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Total Games Over/Under",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Total Aces",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Total Games 3-Way",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "1st Set Aces Over/Under",
+    "sport_id": 8,
+    "enabled": false
+  },
+  {  "bet_option": "Set Total Games 3-Way",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Total Sets Over/Under",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Player Total Games Over/Under",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Player Total Aces Over/Under",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Line",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Extra Line",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Game Line",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Line",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Aces Line",
+    "sport_id": 8,
+    "enabled": false
+  },
+  {  "bet_option": "Set Will There Be A Tiebreak?",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Tiebreak in Match",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "To Win A Set",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Betting",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Correct Score",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Score after 2 Games",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Score after 4 Games",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set Score after 6 Games",
+    "sport_id": 8,
+    "enabled": true
+  },
+  {  "bet_option": "Set by Set",
+    "sport_id": 8,
+    "enabled": false
+  },
+  {  "bet_option": "Match Goal in First 10 Minutes",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Player to Score in Both Halves",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Player to Score First 10 Minutes",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "1st Half Corners Over/Under",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Winner of Tie",
+    "sport_id": 4,
+    "enabled": false
+  },
+  {  "bet_option": "To Lift Trophy",
+    "sport_id": 4,
+    "enabled": false
+  },
+  {  "bet_option": "Method of Result",
+    "sport_id": 4,
+    "enabled": false
+  },
+  {  "bet_option": "Half Double Chance",
+    "sport_id": 4,
+    "enabled": false
+  },
+  {  "bet_option": "Team To Score",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "Team to Score 2+ Goals",
+    "sport_id": 4,
+    "enabled": true
+  },
+  {  "bet_option": "10+ Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "15+ Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "20+ Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "25+ Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "30+ Points",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "4+ Assists",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "6+ Assists",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "2+ Points (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "4+ Points (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "6+ Points (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "8+ Points (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "10+ Points (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "4+ Rebounds",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "6+ Rebounds",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Points (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Rebounds (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "Alternate Player Assists (1st Quarter)",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "25+ PRA",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "30+ PRA",
+    "sport_id": 1,
+    "enabled": true
+  },
+  {  "bet_option": "35+ PRA",
+    "sport_id": 1,
+    "enabled": true
+  }
+]
