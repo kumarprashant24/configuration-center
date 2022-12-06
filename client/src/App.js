@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./components/Home/Home.jsx";
 import Dashboard from "./components/Dashboard/Dashboard.jsx";
 import About from "./components/About/About.jsx";
@@ -39,7 +39,7 @@ function App() {
         pauseOnHover
       />
 
-      <BrowserRouter>
+      <HashRouter>
         <Navbar serviceMenu={serviceMenu} />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -53,7 +53,7 @@ function App() {
           />
           <Route path="*" element={<ErrorPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
